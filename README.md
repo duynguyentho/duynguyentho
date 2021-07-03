@@ -1,3 +1,4 @@
+#Hi there
 - 👋 Hi, I’m @duynguyentho
 - My full name is Nguyễn Thọ Duy
 - DoB : 22/01/2000
