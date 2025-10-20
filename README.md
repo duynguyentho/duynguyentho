@@ -2,7 +2,7 @@
 - 👋 Hi there, I’m @duynguyentho
 - :point_right: I graduated from Hanoi University of Industry.
 - :point_right: 👀 I’m interested in Coding, music, and decorating.
-- :point_right: Contact me: ✉️ duynt2201@gmail.com 
+- :point_right: Contact me: ✉️ duynt2201@gmail.com / https://www.linkedin.com/in/duynt2201/
 
 <!---
 duynguyentho/duynguyentho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
